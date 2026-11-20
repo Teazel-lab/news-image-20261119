@@ -10,3 +10,8 @@
 - The UN figure of 2,230 civilian deaths in Sudan this year, mostly from drones, was released 18 Nov.
 - Ghana’s Falcon 6X presidential jet was reported delivered around 16–17 Nov, not on 19 Nov.
 - The Sudan drone strike that killed at least 10 at the Bajoun gold mine was on Wednesday 18 Nov.
+- ukraine-98-drones: dropped “2 killed and at least 23 wounded” (that toll matches Friday 20 Nov reports, not the Air Force account). Kept 98 launched, 69 downed or jammed, hits at 18 sites.
+- gaza-nuseirat: the about-6,000 flight was Wednesday 18 Nov. Thursday’s report is that Israel said the raid ended and Salah al-Din reopened.
+- tbilisi-gas-blast: dropped “over 100 people”; 19 Nov reports confirm 6 dead, a child among them, and 28 families to be moved.
+- riyadh-kafd: named the tower as the PIF headquarters; civil defence also reported damage to nearby buildings and no injuries.
+- kafr-qasim-ramming: the ramming was Wednesday evening; first detailed reports are early 19 Nov, and police said later that day they saw no nationalist motive.

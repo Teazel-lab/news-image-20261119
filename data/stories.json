@@ -320,8 +320,8 @@
    "n": 19,
    "region": "Europe",
    "place": "Ukraine",
-   "fact": "Kyiv says 98 Russian drones hit 18 sites; 2 dead",
-   "src": "Al Jazeera"
+   "fact": "Kyiv says 69 of 98 drones stopped; 18 sites hit",
+   "src": "Interfax-Ukraine"
   },
   {
    "n": 20,
@@ -362,8 +362,8 @@
    "n": 25,
    "region": "Middle East",
    "place": "Nuseirat",
-   "fact": "Gaza office says about 6,000 fled an Israeli raid",
-   "src": "Al Jazeera"
+   "fact": "Israel says raid ended; Salah al-Din road reopened",
+   "src": "Reuters"
   },
   {
    "n": 26,
@@ -381,111 +381,104 @@
   },
   {
    "n": 28,
-   "region": "Middle East",
-   "place": "Kafr Qasim",
-   "fact": "Car ramming wounds 8; driver arrested",
-   "src": "Times of Israel"
-  },
-  {
-   "n": 29,
    "region": "Africa",
    "place": "Blue Nile",
    "fact": "RSF alliance claims capture of Sudan's Bau",
    "src": "Radio Tamazuj"
   },
   {
-   "n": 30,
+   "n": 29,
    "region": "Africa",
    "place": "Nairobi",
    "fact": "Opposition walks out of election-body talks",
    "src": ""
   },
   {
-   "n": 31,
+   "n": 30,
    "region": "Asia",
    "place": "Ulaanbaatar",
    "fact": "Parliament accepts the president's resignation",
    "src": "AP"
   },
   {
-   "n": 32,
+   "n": 31,
    "region": "Asia",
    "place": "Tokyo",
    "fact": "Japan, India agree first SDF use of Indian ranges",
    "src": "Kyodo"
   },
   {
-   "n": 33,
+   "n": 32,
    "region": "Americas",
    "place": "Wall Street",
    "fact": "Dow falls 1,101; S&P 500 down a sixth session",
    "src": "AP"
   },
   {
-   "n": 34,
+   "n": 33,
    "region": "Americas",
    "place": "Oil",
    "fact": "Settles flat: Brent $91.98, WTI $83.21",
    "src": "Reuters"
   },
   {
-   "n": 35,
+   "n": 34,
    "region": "Americas",
    "place": "California",
    "fact": "Attorney general subpoenas Nvidia over China chips",
    "src": "BBC"
   },
   {
-   "n": 36,
+   "n": 35,
    "region": "Americas",
    "place": "Port-au-Prince",
    "fact": "Police say a raid killed 34 alleged gang members",
    "src": "Reuters"
   },
   {
-   "n": 37,
+   "n": 36,
    "region": "Americas",
    "place": "Brazil",
    "fact": "Central bank sells $1 billion in dollars",
    "src": "G1"
   },
   {
-   "n": 38,
+   "n": 37,
    "region": "Americas",
    "place": "Chile",
    "fact": "Signs a trade pact with the Philippines",
    "src": "Inquirer"
   },
   {
-   "n": 39,
+   "n": 38,
    "region": "Americas",
    "place": "GTA 6",
    "fact": "Goes on sale; Sensor Tower est. $1.84bn in sales",
    "src": "BBC"
   },
   {
-   "n": 40,
+   "n": 39,
    "region": "Americas",
    "place": "Vandenberg",
    "fact": "SpaceX scrubs USSF-317 launch; next try 20 Nov",
    "src": "Spaceflight Now"
   },
   {
-   "n": 41,
+   "n": 40,
    "region": "Oceania",
    "place": "Australia",
    "fact": "Jobless rate rises to 4.9%, ABS says",
    "src": "ABS"
   },
   {
-   "n": 42,
+   "n": 41,
    "region": "Oceania",
    "place": "Cook Islands",
    "fact": "Cyclone Xavier weakens to category 4",
    "src": "RNZ"
   },
   {
-   "n": 43,
+   "n": 42,
    "region": "Oceania",
    "place": "American Samoa",
    "fact": "US sells first seabed leases for $6 million",
