@@ -1,0 +1,523 @@
+{
+ "date_label": "Thursday 19 November 2026",
+ "tagline": "Trump, Xi and Putin meet in Shenzhen; the ICJ finds genocide in Myanmar; the IEA sounds an oil alarm; Anthropic debuts",
+ "stats": [
+  {
+   "v": "3",
+   "l": "leaders at one table",
+   "region": "Asia"
+  },
+  {
+   "v": "9–6",
+   "l": "ICJ genocide vote",
+   "region": "Europe"
+  },
+  {
+   "v": "2.8bn",
+   "l": "barrels of Gulf oil lost (IEA)",
+   "region": "Middle East"
+  },
+  {
+   "v": "$81bn",
+   "l": "raised in Anthropic's IPO",
+   "region": "Americas"
+  },
+  {
+   "v": "48–51",
+   "l": "Senate war-powers vote",
+   "region": "Americas"
+  },
+  {
+   "v": "298,000",
+   "l": "moved before Cyclone Akvan",
+   "region": "Asia"
+  }
+ ],
+ "timeline": [
+  {
+   "t": "00:30 UTC",
+   "label": "Australia jobs data"
+  },
+  {
+   "t": "10:55 UTC",
+   "label": "Shenzhen summit"
+  },
+  {
+   "t": "12:02 UTC",
+   "label": "ICJ genocide ruling"
+  },
+  {
+   "t": "13:31 UTC",
+   "label": "Putin rejects truce"
+  },
+  {
+   "t": "19:42 UTC",
+   "label": "Senate vote 48-51"
+  },
+  {
+   "t": "21:00 UTC",
+   "label": "Anthropic first close"
+  }
+ ],
+ "pictured": [
+  {
+   "n": 1,
+   "id": "trump-xi-putin-shenzhen",
+   "region": "Asia",
+   "beat": "Diplomacy",
+   "place": "Shenzhen",
+   "lon": 114.06,
+   "lat": 22.54,
+   "headline": "Trump, Xi and Putin hold first three-way summit",
+   "subhead": "Joint peace declaration in Shenzhen skips Ukraine and Iran",
+   "status": "confirmed",
+   "tag": "AP / Reuters",
+   "lead": true,
+   "cap": "SHENZHEN · THREE-WAY SUMMIT"
+  },
+  {
+   "n": 2,
+   "id": "icj-myanmar-genocide",
+   "region": "Europe",
+   "beat": "Justice",
+   "place": "The Hague",
+   "lon": 4.3,
+   "lat": 52.08,
+   "headline": "ICJ rules Myanmar committed Rohingya genocide",
+   "subhead": "Judges in The Hague vote 9-6; court cites about 10,000 killed in 2017",
+   "status": "confirmed",
+   "tag": "ICJ / Reuters",
+   "lead": true,
+   "cap": "THE HAGUE · WORLD COURT"
+  },
+  {
+   "n": 3,
+   "id": "iea-gulf-oil-loss",
+   "region": "Middle East",
+   "beat": "Energy",
+   "place": "Gulf",
+   "lon": 51.0,
+   "lat": 26.0,
+   "headline": "IEA: Iran war is history's worst energy threat",
+   "subhead": "Agency counts 2.8 billion barrels of Gulf oil lost so far",
+   "status": "confirmed",
+   "tag": "IEA",
+   "lead": true,
+   "cap": "GULF · OIL SUPPLY"
+  },
+  {
+   "n": 4,
+   "id": "anthropic-ipo-debut",
+   "region": "Americas",
+   "beat": "Markets",
+   "place": "New York",
+   "lon": -74.0,
+   "lat": 40.7,
+   "headline": "Anthropic shares close up 17% on market debut",
+   "subhead": "Stock ends at $97.17, against the $83 IPO price set on 18 Nov",
+   "status": "confirmed",
+   "tag": "AP / Reuters",
+   "lead": true,
+   "cap": "NEW YORK · IPO DEBUT"
+  },
+  {
+   "n": 5,
+   "id": "putin-no-truce",
+   "region": "Europe",
+   "beat": "Conflict",
+   "place": "Crimea",
+   "lon": 36.6,
+   "lat": 45.3,
+   "headline": "Putin rules out energy and Black Sea truce",
+   "subhead": "After a third Crimea bridge strike in a week, he vows a harsh reply",
+   "status": "claim",
+   "tag": "Putin, via Reuters",
+   "lead": false,
+   "cap": "CRIMEA · NO TRUCE"
+  },
+  {
+   "n": 6,
+   "id": "kyiv-embassies",
+   "region": "Europe",
+   "beat": "Conflict",
+   "place": "Kyiv",
+   "lon": 30.5,
+   "lat": 50.4,
+   "headline": "Dutch and Austrian embassies damaged in Kyiv",
+   "subhead": "No staff hurt; the Netherlands summons Russia's ambassador",
+   "status": "confirmed",
+   "tag": "Al Jazeera / Reuters",
+   "lead": false,
+   "cap": "KYIV · EMBASSIES HIT"
+  },
+  {
+   "n": 7,
+   "id": "senate-iran-war-powers",
+   "region": "Americas",
+   "beat": "Politics",
+   "place": "Washington",
+   "lon": -77.0,
+   "lat": 38.9,
+   "headline": "Senate blocks a bid to curb the Iran war",
+   "subhead": "War-powers measure fails 48-51; 3 Republicans vote yes",
+   "status": "confirmed",
+   "tag": "US Senate / Reuters",
+   "lead": false,
+   "cap": "WASHINGTON · WAR POWERS"
+  },
+  {
+   "n": 8,
+   "id": "hormuz-mine-claim",
+   "region": "Middle East",
+   "beat": "Conflict",
+   "place": "Strait of Hormuz",
+   "lon": 56.4,
+   "lat": 26.6,
+   "headline": "Iran says two Hormuz tankers hit mines",
+   "subhead": "IRGC says the ships carried over 4 million barrels; not verified",
+   "status": "claim",
+   "tag": "IRGC Navy, via Reuters",
+   "lead": false,
+   "cap": "HORMUZ · MINE CLAIM"
+  },
+  {
+   "n": 9,
+   "id": "somalia-uae-envoy",
+   "region": "Africa",
+   "beat": "Diplomacy",
+   "place": "Mogadishu",
+   "lon": 45.3,
+   "lat": 2.0,
+   "headline": "Somalia gives UAE envoy 72 hours to leave",
+   "subhead": "Mogadishu recalls its own ambassador and alleges an invasion",
+   "status": "confirmed",
+   "tag": "Al Jazeera / Reuters",
+   "lead": false,
+   "cap": "MOGADISHU · ENVOY ORDERED OUT"
+  },
+  {
+   "n": 10,
+   "id": "senegal-budget-decree",
+   "region": "Africa",
+   "beat": "Economy",
+   "place": "Dakar",
+   "lon": -17.4,
+   "lat": 14.7,
+   "headline": "Senegal's president enacts budget by decree",
+   "subhead": "Faye bypasses parliament to keep a $2.2bn IMF plan alive",
+   "status": "confirmed",
+   "tag": "AFP",
+   "lead": false,
+   "cap": "DAKAR · BUDGET"
+  },
+  {
+   "n": 11,
+   "id": "odisha-akvan-evac",
+   "region": "Asia",
+   "beat": "Disaster",
+   "place": "Odisha",
+   "lon": 86.4,
+   "lat": 20.3,
+   "headline": "Odisha moves about 298,000 before cyclone",
+   "subhead": "Relief chief: 2.98 lakh shifted; Akvan landfall due 20 Nov",
+   "status": "confirmed",
+   "tag": "The Hindu",
+   "lead": false,
+   "cap": "ODISHA · EVACUATION"
+  },
+  {
+   "n": 12,
+   "id": "bangladesh-protests",
+   "region": "Asia",
+   "beat": "Politics",
+   "place": "Dhaka",
+   "lon": 90.4,
+   "lat": 23.8,
+   "headline": "Bangladesh sends border guards to protests",
+   "subhead": "97 platoons deployed as the Awami League calls a shutdown",
+   "status": "confirmed",
+   "tag": "The Guardian",
+   "lead": false,
+   "cap": "DHAKA · PROTESTS"
+  },
+  {
+   "n": 13,
+   "id": "bukele-third-term",
+   "region": "Americas",
+   "beat": "Politics",
+   "place": "San Salvador",
+   "lon": -89.2,
+   "lat": 13.7,
+   "headline": "Bukele files to seek a third term",
+   "subhead": "El Salvador's president registers; Reuters cites polls of 55% to 70%",
+   "status": "confirmed",
+   "tag": "Reuters",
+   "lead": false,
+   "cap": "SAN SALVADOR · THIRD TERM"
+  },
+  {
+   "n": 14,
+   "id": "tonga-drought",
+   "region": "Oceania",
+   "beat": "Climate",
+   "place": "Nuku'alofa",
+   "lon": -175.2,
+   "lat": -21.1,
+   "headline": "Tonga declares a 27-day drought emergency",
+   "subhead": "Order covers all of Tonga from 19 Nov to 16 Dec as El Niño bites",
+   "status": "confirmed",
+   "tag": "RNZ",
+   "lead": false,
+   "cap": "TONGA · DROUGHT"
+  },
+  {
+   "n": 15,
+   "id": "cop31-draft-fossils",
+   "region": "World/Space",
+   "beat": "Climate",
+   "place": "Antalya",
+   "lon": 30.7,
+   "lat": 36.9,
+   "headline": "COP31 draft drops fossil-fuel language",
+   "subhead": "A draft, not a final deal; it also cuts a $120 billion adaptation target",
+   "status": "confirmed",
+   "tag": "Reuters / AFP",
+   "lead": false,
+   "cap": "ANTALYA · COP31"
+  },
+  {
+   "n": 16,
+   "id": "voyager-signal",
+   "region": "World/Space",
+   "beat": "Space",
+   "place": "Deep space",
+   "lon": null,
+   "lat": null,
+   "headline": "NASA confirms Voyager 1 is a light-day away",
+   "subhead": "Probe is 16.1 billion miles out; it crossed the mark on 18 Nov",
+   "status": "confirmed",
+   "tag": "NASA",
+   "lead": false,
+   "cap": "DEEP SPACE · VOYAGER 1"
+  }
+ ],
+ "briefs": [
+  {
+   "n": 17,
+   "region": "Europe",
+   "place": "Berlin",
+   "fact": "Kushner says Russia open to Article 5-style pledge",
+   "src": "AP"
+  },
+  {
+   "n": 18,
+   "region": "Europe",
+   "place": "Berlin",
+   "fact": "UK pledges 1,000 long-range drones to Ukraine",
+   "src": "UK govt"
+  },
+  {
+   "n": 19,
+   "region": "Europe",
+   "place": "Ukraine",
+   "fact": "Kyiv says 98 Russian drones hit 18 sites; 2 dead",
+   "src": "Al Jazeera"
+  },
+  {
+   "n": 20,
+   "region": "Europe",
+   "place": "Saratov",
+   "fact": "Governor says a Ukrainian strike killed 3",
+   "src": "Al Jazeera"
+  },
+  {
+   "n": 21,
+   "region": "Europe",
+   "place": "Tbilisi",
+   "fact": "Gas blast kills 6 in apartment block, one a child",
+   "src": "AFP"
+  },
+  {
+   "n": 22,
+   "region": "Europe",
+   "place": "Turin",
+   "fact": "Zverev and Shelton reach ATP Finals semis",
+   "src": "ATP"
+  },
+  {
+   "n": 23,
+   "region": "Europe",
+   "place": "London",
+   "fact": "Stoxx 600 falls 0.88%, a fourth day of losses",
+   "src": "dpa"
+  },
+  {
+   "n": 24,
+   "region": "Middle East",
+   "place": "Riyadh",
+   "fact": "Saudi civil defence says Houthi fire hit a tower",
+   "src": "Anadolu"
+  },
+  {
+   "n": 25,
+   "region": "Middle East",
+   "place": "Nuseirat",
+   "fact": "Gaza office says about 6,000 fled an Israeli raid",
+   "src": "Al Jazeera"
+  },
+  {
+   "n": 26,
+   "region": "Middle East",
+   "place": "Gaza",
+   "fact": "Five aid groups score the peace plan 4 out of 26",
+   "src": "Al Jazeera"
+  },
+  {
+   "n": 27,
+   "region": "Middle East",
+   "place": "Beqaa Valley",
+   "fact": "IDF says it struck Hezbollah tunnel entrances",
+   "src": "Times of Israel"
+  },
+  {
+   "n": 28,
+   "region": "Middle East",
+   "place": "Kafr Qasim",
+   "fact": "Car ramming wounds 8; driver arrested",
+   "src": "Times of Israel"
+  },
+  {
+   "n": 29,
+   "region": "Africa",
+   "place": "Blue Nile",
+   "fact": "RSF alliance claims capture of Sudan's Bau",
+   "src": "Radio Tamazuj"
+  },
+  {
+   "n": 30,
+   "region": "Africa",
+   "place": "Nairobi",
+   "fact": "Opposition walks out of election-body talks",
+   "src": ""
+  },
+  {
+   "n": 31,
+   "region": "Asia",
+   "place": "Ulaanbaatar",
+   "fact": "Parliament accepts the president's resignation",
+   "src": "AP"
+  },
+  {
+   "n": 32,
+   "region": "Asia",
+   "place": "Tokyo",
+   "fact": "Japan, India agree first SDF use of Indian ranges",
+   "src": "Kyodo"
+  },
+  {
+   "n": 33,
+   "region": "Americas",
+   "place": "Wall Street",
+   "fact": "Dow falls 1,101; S&P 500 down a sixth session",
+   "src": "AP"
+  },
+  {
+   "n": 34,
+   "region": "Americas",
+   "place": "Oil",
+   "fact": "Settles flat: Brent $91.98, WTI $83.21",
+   "src": "Reuters"
+  },
+  {
+   "n": 35,
+   "region": "Americas",
+   "place": "California",
+   "fact": "Attorney general subpoenas Nvidia over China chips",
+   "src": "BBC"
+  },
+  {
+   "n": 36,
+   "region": "Americas",
+   "place": "Port-au-Prince",
+   "fact": "Police say a raid killed 34 alleged gang members",
+   "src": "Reuters"
+  },
+  {
+   "n": 37,
+   "region": "Americas",
+   "place": "Brazil",
+   "fact": "Central bank sells $1 billion in dollars",
+   "src": "G1"
+  },
+  {
+   "n": 38,
+   "region": "Americas",
+   "place": "Chile",
+   "fact": "Signs a trade pact with the Philippines",
+   "src": "Inquirer"
+  },
+  {
+   "n": 39,
+   "region": "Americas",
+   "place": "GTA 6",
+   "fact": "Goes on sale; Sensor Tower est. $1.84bn in sales",
+   "src": "BBC"
+  },
+  {
+   "n": 40,
+   "region": "Americas",
+   "place": "Vandenberg",
+   "fact": "SpaceX scrubs USSF-317 launch; next try 20 Nov",
+   "src": "Spaceflight Now"
+  },
+  {
+   "n": 41,
+   "region": "Oceania",
+   "place": "Australia",
+   "fact": "Jobless rate rises to 4.9%, ABS says",
+   "src": "ABS"
+  },
+  {
+   "n": 42,
+   "region": "Oceania",
+   "place": "Cook Islands",
+   "fact": "Cyclone Xavier weakens to category 4",
+   "src": "RNZ"
+  },
+  {
+   "n": 43,
+   "region": "Oceania",
+   "place": "American Samoa",
+   "fact": "US sells first seabed leases for $6 million",
+   "src": "Guardian"
+  }
+ ],
+ "date_check": {
+  "before": [
+   "Kerch bridge arch collapse (17 Nov)",
+   "EU €45bn Ukraine loan plan (18 Nov)",
+   "Anthropic IPO pricing (18 Nov)",
+   "US–Venezuela military pact (18 Nov)",
+   "Voyager 1 light-day crossing (18 Nov)"
+  ],
+  "later": [
+   "Russia's 400-drone barrage; missile in Poland (20 Nov)",
+   "Cyclone Akvan landfall (due 20 Nov)",
+   "COP31 close (due 20 Nov)"
+  ]
+ },
+ "sources": [
+  "AP",
+  "Reuters",
+  "AFP",
+  "BBC",
+  "Al Jazeera",
+  "ICJ",
+  "IEA",
+  "NASA",
+  "RNZ",
+  "The Hindu",
+  "The Guardian",
+  "Times of Israel"
+ ]
+}

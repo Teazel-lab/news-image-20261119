@@ -1,0 +1,12 @@
+- Russia’s largest barrage (Zelenskyy: 400+ drones and 110+ missiles; Reuters: 8 killed) was reported Friday 20 Nov.
+- Objects including a cruise missile in Poland, which Tusk called a provocation, fell early Friday 20 Nov.
+- Britain–EU deals on food trade and youth mobility were announced Friday 20 Nov (Reuters).
+- The European Commission’s €45 billion Ukraine loan proposal was put forward 18 Nov.
+- Earlier Kerch Bridge hits, including the arch collapse overnight 17 Nov, are not the 19 Nov story.
+- Nigeria’s state-police amendment was approved by all 36 states by 16–18 Nov and reached Tinubu on 18 Nov.
+- Zimbabwe’s Constitutional Court heard the Mnangagwa term-to-2030 case and reserved judgment on 18 Nov.
+- An Israeli court extended Dr Hussam Abu Safiya’s detention by six months on 18 Nov.
+- Ethiopia and Eritrea massing forces on the border was reported by Reuters on 18 Nov.
+- The UN figure of 2,230 civilian deaths in Sudan this year, mostly from drones, was released 18 Nov.
+- Ghana’s Falcon 6X presidential jet was reported delivered around 16–17 Nov, not on 19 Nov.
+- The Sudan drone strike that killed at least 10 at the Bajoun gold mine was on Wednesday 18 Nov.

@@ -1,0 +1,12 @@
+Date check — excluded (broke before 19 Nov 2026, or only scheduled after):
+- Gemini 4 Neon shipped on 18 Nov 2026 (Google blog); later write-ups are not a new launch.
+- Anthropic priced the IPO on 18 Nov 2026 ($83, about $81.3bn); only the 19 Nov trading debut is in the file.
+- Voyager 1 crossed one light-day at 10:16 UTC on 18 Nov 2026; 19 Nov is NASA confirming the signal arrived.
+- WTA Finals doubles final was 15 Nov 2026 (Siniakova/Townsend beat Errani/Paolini 6-4, 6-3).
+- Rugby League World Cup finals and the Grey Cup were both 15 Nov 2026, not 19 Nov (Australia 32-12; Elks 37-30).
+- PAHO said on 17 Nov 2026 that the US, Mexico and Bolivia had lost measles-elimination status.
+- BBC reported on 18 Nov 2026 an Israeli ground operation in Gaza beyond the Yellow Line.
+- Jensen Huang resigned the week before 19 Nov; the new 19 Nov item is California's subpoena only.
+- USSF-317 did not fly on 19 Nov; SpaceX scrubbed it and retargeted Friday 20 Nov.
+- CRS-35 Dragon undocking moved to 20 Nov 2026, with splashdown targeted for 21 Nov.
+- COP31 is due to close on 20 Nov 2026; the 19 Nov story is the draft text, not a finished deal.
